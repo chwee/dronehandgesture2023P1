@@ -62,7 +62,6 @@ When your webcam is turned on, you can use gesture to control the Airsim Drone
 For the keypoint classifier
 
 0 Stop
-
 ![image](https://user-images.githubusercontent.com/109940604/219559497-2cf1d8ad-8b45-4602-bb27-6a39ecead540.png)
 
 1 Front
@@ -80,7 +79,6 @@ For the keypoint classifier
 
 
 5 Left
-
 ![image](https://user-images.githubusercontent.com/109940604/219559556-12659836-c8a7-4bcb-a84a-4cb4f5f8a6f4.png)
 
 
