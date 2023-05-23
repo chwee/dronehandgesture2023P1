@@ -83,11 +83,12 @@ For the keypoint classifier
 
 5 Front
 
-![image](https://user-images.githubusercontent.com/109940604/219559637-4ec9da42-053b-49ae-a614-d14ae2325f61.png)
+![front](https://github.com/chwee/dronehandgesture2023P1/assets/97832534/01976207-1aca-441c-8f86-f15ae6eef558)
 
 6 Back
 
-![image](https://user-images.githubusercontent.com/109940604/219559664-576c6414-9db7-44ff-a89e-513f0c061bdb.png)
+![back](https://github.com/chwee/dronehandgesture2023P1/assets/97832534/bc9b3d25-5d65-4ebb-9b34-97e280ba39fe)
+
 
 7 Pointer (For turning clockwise and anticlockwise)
 
