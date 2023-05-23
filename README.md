@@ -65,29 +65,28 @@ For the keypoint classifier
 
 ![image](https://user-images.githubusercontent.com/109940604/219559497-2cf1d8ad-8b45-4602-bb27-6a39ecead540.png)
 
-1 Up
+1 Front
+![front](https://github.com/chwee/dronehandgesture2023P1/assets/97832534/01976207-1aca-441c-8f86-f15ae6eef558)
+
+2 Back
+![back](https://github.com/chwee/dronehandgesture2023P1/assets/97832534/bc9b3d25-5d65-4ebb-9b34-97e280ba39fe)
+
+
+3 Up
+![image](https://user-images.githubusercontent.com/109940604/219559602-1a8342f9-8300-453d-ab0c-78770571630b.png)
+
+4 Down
+![image](https://user-images.githubusercontent.com/109940604/219559582-89c12205-4659-495a-a8e9-5d81cb1a2252.png)
+
+
+5 Left
 
 ![image](https://user-images.githubusercontent.com/109940604/219559556-12659836-c8a7-4bcb-a84a-4cb4f5f8a6f4.png)
 
-2 Down
 
-![image](https://user-images.githubusercontent.com/109940604/219559582-89c12205-4659-495a-a8e9-5d81cb1a2252.png)
-
-3 Left
-
-![image](https://user-images.githubusercontent.com/109940604/219559602-1a8342f9-8300-453d-ab0c-78770571630b.png)
-
-4 Right
-
+6 Right
 ![image](https://user-images.githubusercontent.com/109940604/219559614-05ff4994-144d-4a4b-a256-0b5bb9100b41.png)
 
-5 Front
-
-![front](https://github.com/chwee/dronehandgesture2023P1/assets/97832534/01976207-1aca-441c-8f86-f15ae6eef558)
-
-6 Back
-
-![back](https://github.com/chwee/dronehandgesture2023P1/assets/97832534/bc9b3d25-5d65-4ebb-9b34-97e280ba39fe)
 
 
 7 Pointer (For turning clockwise and anticlockwise)
